@@ -5,9 +5,9 @@ import 'package:flutter/material.dart';
 import 'package:flutter_viedeo_test/model/audio.dart';
 import 'package:flutter_viedeo_test/model/audios.dart';
 import 'package:http/http.dart' as http;
-import 'package:flutter_viedeo_test/model/subtitles.dart';
+import 'package:flutter_viedeo_test/model/m3u8s.dart';
 import 'package:just_audio2/just_audio.dart';
-import 'model/subtitle.dart';
+import 'model/m3u8.dart';
 
 class VideoPlayPage extends StatefulWidget {
   VideoPlayPage({Key key}) : super(key: key);
